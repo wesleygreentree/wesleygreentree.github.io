@@ -12,4 +12,4 @@ My research goal is to identify where, when, and why salmon move between differe
 
 I teach workshops on using R for spatial data. This website contains code and tutorials to help you communicate your science with maps.
 
-![](images/jan23-anim-satellite.gif)
+![january animation](/files/low-res-gif.gif)

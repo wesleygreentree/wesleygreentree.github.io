@@ -6,4 +6,4 @@ permalink: /animations/january-2023
 
 55 Chinook salmon
 
-![anuary 2023 animation](/files/jan23-anim-satellite.gif)
+![january 2023 animation](/files/jan23-anim-satellite.gif)

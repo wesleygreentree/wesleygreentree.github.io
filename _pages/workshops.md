@@ -1,9 +1,7 @@
 ---
-permalink: /
+title: "Workshops"
+permalink: /workshops/
 author_profile: yes
-redirect_from:
-- /workshops/
-- /workshops.html
 ---
 
 **Making maps in R: applications for ecology and evolution.** Canadian Society for Ecology and Evolution, May 2024

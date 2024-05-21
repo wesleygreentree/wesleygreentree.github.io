@@ -14,6 +14,4 @@ Animated movement tracks of 329 acoustic tagged juvenile Chinook salmon, 2022-24
 
 [October 2023 movement tracks](/files/oct23-anim-satellite.gif)
 
-\newline
-
 ![january2023-screenshot](/files/animation-screenshot.png)

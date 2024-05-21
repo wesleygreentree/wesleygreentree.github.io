@@ -6,4 +6,4 @@ permalink: /animations/october-2022
 
 95 Chinook salmon
 
-[!october 2022 animation](/files/oct22-anim-satellite.gif)
+![october 2022 animation](/files/oct22-anim-satellite.gif)

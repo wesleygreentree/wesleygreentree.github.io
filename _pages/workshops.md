@@ -4,7 +4,7 @@ permalink: /workshops/
 author_profile: yes
 ---
 
-==
+
 
 **CSEE 2024 workshop attendees**: please open the link below and download the code in the Github repository following the steps listed on the Github page. Looking forward to it!
 

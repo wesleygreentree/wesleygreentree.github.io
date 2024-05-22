@@ -4,7 +4,7 @@ permalink: /animations/
 author_profile: yes
 ---
 
-ovement tracks of 329 acoustic tagged juvenile Chinook salmon, 2022-2024 (screenshot below). 
+Movement tracks of 329 acoustic tagged juvenile Chinook salmon, 2022-2024 (screenshot below). 
 
 [October 2022 movement tracks](/files/oct22-anim-satellite.gif)
 

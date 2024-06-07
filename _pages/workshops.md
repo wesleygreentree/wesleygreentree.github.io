@@ -15,3 +15,4 @@ author_profile: yes
 **Mapping and analyzing spatial data in R.** Pacific Ecology and Evolution Conference, April 2023.
 [GitHub repository.](https://github.com/wesleygreentree/PEEC2023-R-workshop)
 
+![study area map](/files/study-area-bathymetry-topography.PNG)
